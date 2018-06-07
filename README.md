@@ -1,6 +1,7 @@
 # WP_Plugins
 # WPDEV
-    ## Entorn de desenvolupament Web amb Wordpress
+
+   ## Entorn de desenvolupament Web amb Wordpress 
  
 Aquest Script per iniciar, aturar, reiniciar i eliminar el entorn de desenvolupament de Wordpress. 
 
