@@ -4,11 +4,11 @@
  
 Aquest Script per iniciar, aturar, reiniciar i eliminar el entorn de desenvolupament de Wordpress. 
 
-Consta de un script amb **3** contenidors :
+Consta de un script amb **3** contenidors:
 
-    **dcsss-MariaDB** per desar les dades del Wordpress
-    **dcsss-httpd-wpdev** que consta de un apache amb el wordpress
-    **cloud9-docker** eina de desenvolupament en una navegador web
+   **1**.*dcsss-MariaDB* per desar les dades del Wordpress
+   **2**.*dcsss-httpd-wpdev* que consta de un apache amb el wordpress
+   **3**.*cloud9-docker* eina de desenvolupament en una navegador web
     
 
 També te les facilitats de configurar els contenidors amb variables, com per exemple
